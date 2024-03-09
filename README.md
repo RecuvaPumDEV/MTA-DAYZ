@@ -1,0 +1,1 @@
+Upraveno pro RecHost!
