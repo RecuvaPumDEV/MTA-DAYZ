@@ -1,0 +1,12 @@
+﻿[0.9.9.5a] - 2018-03-09
+ADDED: Skills
+ADDED: NPC's to Whetstone
+ADDED: Jobs/Quests in Whetstone
+CHANGED: Key for Journal: F1
+CHANGED: Animations: Comma, Period & Hyphen (, / . / -)
+CHANGED: Keys for GPS/Watch toggle: 1 / 2
+REMOVED: Map and GPS, reverted back to old GTA SA style
+REMOVED: Camera sway when in pain
+REMOVED: Scoreboard
+FIXED: First person mode in login screen
+FIXED: Weapons not appearing on right side of inventory when equipped
